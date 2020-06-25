@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Anki使用助手
+longtitle:        Anki各种技巧合集
+author:           Terrychan
+email:            napoler2008@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Anki各种技巧合集
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://www.terrychan.org'
+# baseurl:          '/anki'
 rss:              RSS
 
 # markdown render engine.
