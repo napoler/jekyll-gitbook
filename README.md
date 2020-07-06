@@ -4,7 +4,7 @@ Make Jelly site have a GitBook look!
 
 ## Demo
 
-[https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+[https://www.terrychan.org/jekyll-gitbook/](https://www.terrychan.org/jekyll-gitbook/)
 
 ## Why Jekyll with GitBook
 
