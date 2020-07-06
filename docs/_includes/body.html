@@ -26,16 +26,12 @@
                             <h1 id="{{ page.id }}">{{ site.title | escape }}</h1>
                         {% endif %}
 
-
-                        <div class="overlay" style="">
-                            <div class="ui labeled icon vertical menu">
-                              <a class="{{site.github.repository_url}}/edit/master/docs/{{page.path}}"><i class="edit icon"></i> 编辑</a>
-                            
-                            </div>
-                          </div>
+     
+                        <a href="{{site.github.repository_url}}/edit/master/docs/{{page.path}}" class="ui label"><i class="edit icon"></i> 编辑 </a>
 
  
                         {{ content }}
+                        
                         <div id="lv-container" data-id="city" data-uid="MTAyMC80OTg1OS8yNjM1MA==">
                             <script type="4097e126b712b9dab1f8fc00-text/javascript">
                                  (function(d, s) {
